@@ -1,2 +1,2 @@
 # PreCourse_henry
-este es un repositorio de prueba del modulo 2
+este rpoyecto es una prueba de como clonar nuestro repsoitorio y guardarlo en nuestro pc
